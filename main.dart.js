@@ -39686,7 +39686,7 @@ k=P.ae(C.d.aC(25.5),k.gk(k)>>>16&255,k.gk(k)>>>8&255,k.gk(k)&255)
 s=T.au(o,40,o)
 r=t.p
 q=G.anq(H.a([p.nu(L.be(C.dV,o,o,o),new Z.bc(0,0.75,C.T),"Sales Report"),p.nu(L.be(C.dV,o,o,o),new Z.bc(0,0.75,C.T),"Sales Summary Report"),p.nu(L.be(C.dV,o,o,o),new Z.bc(0,0.75,C.T),"Quarry Report"),p.nu(L.be(C.dV,o,o,o),new Z.bc(0,0.75,C.T),"Quarry Summary Report"),p.nu(L.be(C.dV,o,o,o),new Z.bc(0,0.75,C.T),"Transport Report"),p.nu(L.be(C.dV,o,o,o),new Z.bc(0,0.75,C.T),"Partywise Report")],r),!0,!0,!0)
-return new F.hC(Q.id(!0,M.fX(m,o,M.bG(o,T.er(C.b7,H.a([T.bX(H.a([s,T.cl(new T.L_(new U.adf(),new B.qy(new B.a8T(3,0,0,0.9),q,C.P8,C.t,!1,o,!0,C.ns,!1,o,6,C.aB,C.jl,o,C.U,o),o),1)],r),C.y,C.C,C.x)],r),C.U,C.aA,o,o),C.n,k,o,o,o,1/0,o,o,o,o,o,1/0),l,o),!0,C.a9,!0,!0),new U.adg(),o)}}
+return new F.hC(Q.id(!0,M.fX(m,o,M.bG(o,T.er(C.b7,H.a([T.bX(H.a([s,T.cl(new T.L_(new U.adf(),new B.qy(new B.a8T(6,0,0,0.9),q,C.P8,C.t,!1,o,!0,C.ns,!1,o,6,C.aB,C.jl,o,C.U,o),o),1)],r),C.y,C.C,C.x)],r),C.U,C.aA,o,o),C.n,k,o,o,o,1/0,o,o,o,o,o,1/0),l,o),!0,C.a9,!0,!0),new U.adg(),o)}}
 U.adb.prototype={
 $0(){},
 $S:0}
