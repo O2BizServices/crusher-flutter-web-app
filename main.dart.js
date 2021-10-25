@@ -1044,11 +1044,7 @@ a=a+((a&524287)<<10)&536870911
 return a^a>>>6},
 dA(){if($.a_g==="dev")return"https://un137lb64l.execute-api.ap-southeast-1.amazonaws.com/dev/api/v1"
 else if($.a_g==="qa")return"https://bsbo3e9u5a.execute-api.ap-south-1.amazonaws.com/qa/api/v1"
-<<<<<<< HEAD
 else if($.a_g==="prod")return"https://t21urj33n9.execute-api.ap-south-1.amazonaws.com/prod/api/v1/"
-=======
-else if($.a_g==="prod")return"/api/v1"
->>>>>>> 5ac7d498fe559ba2f5841fec1b639c6b77b506c1
 return""}},B={HX:function HX(a){this.b=a},ZJ:function ZJ(a){this.b=a},Zt:function Zt(a,b,c,d,e,f){var _=this
 _.a=a
 _.b=b
@@ -88501,11 +88497,7 @@ $.axR=P.z(t.N,t.y)
 $.aBL=null
 $.aq9=null
 $.aC2=!0
-<<<<<<< HEAD
 $.a_g="prod"
-=======
-$.a_g="qa"
->>>>>>> 5ac7d498fe559ba2f5841fec1b639c6b77b506c1
 $.aAq=null
 $.aAp=null
 $.aue=!1
